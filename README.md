@@ -5,8 +5,3 @@ Bu Python uygulaması, belirli bir web sayfasına yük testi yapmak için kullan
 ## Kurulum
 
 1. Bu uygulamanın çalışabilmesi için Python'nın yüklü olması ve requirements.txt içerisindeki paketlerin indirili olması gerekir.
-
-2. Bu depoyu klonlayın:
-
-   ```bash
-   git clone https://github.com/kullanici/uygulama.git
